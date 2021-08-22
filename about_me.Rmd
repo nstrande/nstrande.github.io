@@ -13,9 +13,10 @@ theme: readable
 <br />
 <br />
 <br />
+<br />
 
 :::::::::::::: {.columns}
-::: {.column width="40%"}
+::: {.column width="50%"}
 
 ## About me
 I am data scientist. My passion includes machine learning, optimization, data analysis and coding. My goal is to contribute to society with game-changing solutions based on data. I have a MsC in Economics from University of Southern Denmark.
@@ -25,10 +26,8 @@ I am data scientist. My passion includes machine learning, optimization, data an
 ## Programming
 Python, R, git, Shell, Linux, SQL, Docker
 
-<br />
-
 :::
-::: {.column width="60%"}
+::: {.column width="50%"}
 
 <p align="center">
 ![](files/image0.jpeg){width=40%}
@@ -37,13 +36,20 @@ Python, R, git, Shell, Linux, SQL, Docker
 :::
 ::::::::::::::
 
+<br />
+
 ## Technical
-Classification, Regression, Data Engineering, Feature Enginering, Visualization, Optimization, Time Series Forecasting, Business Intelligence
+Classification, Regression, Data Engineering, Feature Engineering, Visualization, Optimization, Time Series Forecasting, Business Intelligence
 
 <br />
 
 ## Tools & Frameworks
-scikit-learn, OrTools, Tidyverse, gganimate, RMarkdown, TensorFlow, Keras, Pandas, Numpy etc.
+scikit-learn, ORTools, Tidyverse, gganimate, RMarkdown, TensorFlow, Keras, Pandas, Numpy etc.
+
+<br />
+
+## Portfolio
+Visit my github repository [here. ](https://github.com/nstrande?tab=repositories "Github repository")
 
 <br />
 
