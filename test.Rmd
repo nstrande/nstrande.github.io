@@ -1,0 +1,32 @@
+---
+title: "Untitled"
+author: "Martin"
+date: "7/9/2017"
+output: 
+  beamer_presentation: 
+    keep_tex: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## R Markdow
+
+\begin{multicols}{2}
+
+  \null \vfill
+  \includegraphics[width=.3\textwidth]{unnamed.png}
+  \vfill \null
+
+\columnbreak
+
+  \null \vfill
+  \begin{itemize}
+    \item Item 1
+    \item Item 2
+  \end{itemize}
+  \vfill \null
+\end{multicols}
+
+enter image description here

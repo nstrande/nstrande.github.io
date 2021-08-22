@@ -1,0 +1,19 @@
+name: "nstrande"
+output_dir: "docs"
+navbar:
+  title: "Niels Strande"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About me"
+      href: about_me.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<slotstrande@gmail.com.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/nstrande/
+    - icon: fa-linkedin fa-lg
+      href: https://dk.linkedin.com/in/slotstrande
+output:
+  html_document:
+    theme: cosmo

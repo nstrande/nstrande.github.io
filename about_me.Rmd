@@ -1,0 +1,51 @@
+---
+#title: "About me"
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'about_me.html'))})
+output: html_document
+theme: readable
+---
+
+
+<br />
+<br />
+<br />
+
+:::::::::::::: {.columns}
+::: {.column width="40%"}
+
+## About me
+I am data scientist. My passion includes machine learning, optimization, data analysis and coding. My goal is to contribute to society with game-changing solutions based on data. I have a MsC in Economics from University of Southern Denmark.
+
+<br />
+
+## Programming
+Python, R, git, Shell, Linux, SQL, Docker
+
+<br />
+
+:::
+::: {.column width="60%"}
+
+<p align="center">
+![](files/image0.jpeg){width=40%}
+</p>
+
+:::
+::::::::::::::
+
+## Technical
+Classification, Regression, Data Engineering, Feature Enginering, Visualization, Optimization, Time Series Forecasting, Business Intelligence
+
+<br />
+
+## Tools & Frameworks
+scikit-learn, OrTools, Tidyverse, gganimate, RMarkdown, TensorFlow, Keras, Pandas, Numpy etc.
+
+<br />
+
+## Personal life
+Outside of work, I like to bake pizza to my lovely family, running, MTB-biking, hiking and sauna bathing. I live with my wife and our three children in Horsens, Denmark.
